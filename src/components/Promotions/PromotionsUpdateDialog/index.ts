@@ -1,0 +1,1 @@
+export {PromotionsUpdateDialog} from './PromotionsUpdateDialog'
