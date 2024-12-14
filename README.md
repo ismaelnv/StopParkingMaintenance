@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+<h1 align="center" style="font-size: 4rem;">STOP PARKING</h1>
+An application designed to manage the basic maintenance of a parking company, including task, incident, and user administration.
 
-First, run the development server:
+Technologies used:
+Next.js, React.js, Material-UI, and SweetAlert2, integrated to provide a modern, dynamic, and responsive interface with customized interactive alerts.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/user-attachments/assets/3dc8019c-ea69-4a33-8e6f-fd82e5c988ac)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/user-attachments/assets/942e0d80-ea23-4c16-83c5-0c33a9e3908d)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/user-attachments/assets/a772c2a7-51fd-4a7a-8cbd-0502fc22033c)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![image](https://github.com/user-attachments/assets/555e6b60-9386-4331-9f6b-57a2d0c2f86b)
 
-## Learn More
+![image](https://github.com/user-attachments/assets/fc6a057d-3d3f-4400-a1f2-dfd04bc4cf0c)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/user-attachments/assets/05782e58-dd94-4d80-9f5b-c1e49a845b48)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
